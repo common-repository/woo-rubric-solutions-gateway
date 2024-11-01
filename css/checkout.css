@@ -1,0 +1,8 @@
+.woocommerce-checkout-payment .form-row.cc_row, .woocommerce-checkout-payment .form-row.cc_exp {margin-bottom:15px;}
+.woocommerce-checkout-payment .cc_row input::placeholder, .woocommerce-checkout-payment .cc_exp input::placeholder{color:#ccc;opacity:1;}
+.woocommerce-checkout-payment .cc_row input::-webkit-input-placeholder, .woocommerce-checkout-payment .cc_exp input::-webkit-input-placeholder{color:#ccc;}
+.woocommerce-checkout-payment .cc_row input:-ms-input-placeholder. .woocommerce-checkout-payment .cc_exp input:-ms-input-placeholder{color:#ccc;}
+.woocommerce-checkout-payment .cc_row input::-ms-input-placeholder, .woocommerce-checkout-payment .cc_exp input::-ms-input-placeholder{color:#ccc;}
+.woocommerce-checkout-payment .cc-number{position:relative;}
+.woocommerce-checkout-payment .cc-number .card-type-logo{position:absolute;top: 4px;right: 10px;}
+.rubric_terms_content .mfp-iframe-scaler iframe{background:#fff;}
